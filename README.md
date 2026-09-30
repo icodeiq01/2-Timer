@@ -1,5 +1,7 @@
 # 2-Timer
 using C# WinForm 
+
+
 Start
 
 <img width="238" height="283" alt="timer2" src="https://github.com/user-attachments/assets/b4f3847f-b2aa-455b-9cba-4e8ace337e24" />
